@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="utf-8"?>
+<ArrayOfService xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <Service>
+    <serviceDate>1990</serviceDate>
+    <carModel>ModelS</carModel>
+    <releaseDate>1989</releaseDate>
+    <taskName>fix1</taskName>
+  </Service>
+  <Service>
+    <serviceDate>2014</serviceDate>
+    <carModel>ModelA</carModel>
+    <releaseDate>2010</releaseDate>
+    <taskName>fix2</taskName>
+  </Service>
+  <Service>
+    <serviceDate>1009</serviceDate>
+    <carModel>stone</carModel>
+    <releaseDate>1000</releaseDate>
+    <taskName>fix3</taskName>
+  </Service>
+</ArrayOfService>

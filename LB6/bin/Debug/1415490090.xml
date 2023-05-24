@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8"?>
+<ServiceList xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <Service>
+    <serviceDate>2</serviceDate>
+    <carModel>2</carModel>
+    <releaseDate>2</releaseDate>
+    <taskName>aboba</taskName>
+  </Service>
+  <Service>
+    <serviceDate>1</serviceDate>
+    <carModel>1</carModel>
+    <releaseDate>1</releaseDate>
+    <taskName>bebra</taskName>
+  </Service>
+</ServiceList>
